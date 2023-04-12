@@ -1,0 +1,30 @@
+.change {
+  color: aliceblue;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.toflex {
+  display: flex;
+  justify-content: center;
+}
+
+.changestoit {
+  width: 900px;
+}
+
+.margt {
+  margin-top: 20px;
+}
+
+/* .margy {
+  margin-left: 70px;
+} */
+
+.margtb {
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
